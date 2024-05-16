@@ -211,7 +211,6 @@ python-decouple==3.8
 python-json-logger==2.0.7
 pytz==2022.7.1
 pytz-deprecation-shim==0.1.0.post0
-pywin32
 pywin32-ctypes==0.2.2
 pywinpty==2.0.10
 pyxlsb==1.0.10
